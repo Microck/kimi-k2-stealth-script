@@ -4,9 +4,7 @@ Stealth userscript for Moonshot Kimi K2: crosshair A→B screen capture, clipboa
 
 API note: This script assumes Moonshot Kimi’s Chat Completions API is OpenAI‑compatible at `https://api.moonshot.ai/v1/chat/completions`. If your account uses different endpoints/models, adjust settings in the menu.
 
-[violentmonkey.webm](https://github.com/user-attachments/assets/dc1f8d08-bd48-4898-a8fe-5f2091582941)
-
-<img width="318" height="365" alt="Screenshot_9" src="https://github.com/user-attachments/assets/f0f673ee-1bd0-4d66-b3a7-093216e491c2" />
+[Showcase.webm](https://github.com/user-attachments/assets/dc1f8d08-bd48-4898-a8fe-5f2091582941)
 
 
 ---
@@ -81,6 +79,8 @@ You can change these under “Set hotkeys.”
 ## Settings (Violentmonkey menu) — in depth
 
 Open Violentmonkey → click the script → Menu commands. All settings persist locally.
+
+<img width="318" height="365" alt="Screenshot_9" src="https://github.com/user-attachments/assets/f0f673ee-1bd0-4d66-b3a7-093216e491c2" />
 
 ### 1) Set Kimi API Key
 - Stores your Moonshot Kimi API key locally (Violentmonkey storage).
