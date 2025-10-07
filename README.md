@@ -4,7 +4,7 @@ Stealth userscript for Moonshot Kimi K2: crosshair A→B screen capture, clipboa
 
 API note: This script assumes Moonshot Kimi’s Chat Completions API is OpenAI‑compatible at `https://api.moonshot.ai/v1/chat/completions`. If your account uses different endpoints/models, adjust settings in the menu.
 
-[Showcase.webm](https://github.com/user-attachments/assets/dc1f8d08-bd48-4898-a8fe-5f2091582941)
+[Showcase.webm](https://github.com/user-attachments/assets/e4f20d15-5943-42c5-b89e-c0e66587dda0)
 
 
 ---
