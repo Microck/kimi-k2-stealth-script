@@ -2,7 +2,7 @@
 
 Stealth userscript for Moonshot Kimi K2: crosshair A→B screen capture, clipboard text/image, smart prompting, auto‑copied outputs, and a camouflaged context menu.
 
-[Unverified] API note: This script assumes Moonshot Kimi’s Chat Completions API is OpenAI‑compatible at `https://api.moonshot.ai/v1/chat/completions`. If your account uses different endpoints/models, adjust settings in the menu.
+API note: This script assumes Moonshot Kimi’s Chat Completions API is OpenAI‑compatible at `https://api.moonshot.ai/v1/chat/completions`. If your account uses different endpoints/models, adjust settings in the menu.
 
 ---
 
