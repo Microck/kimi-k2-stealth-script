@@ -94,7 +94,7 @@
     inputClipboardText:
       "Use only what is necessary from the clipboard text. Be concise.",
     inputImage:
-      "Answer strictly about the image as requested. Be concise and exact.",
+      "Answer the captured region and answer the task briefly and precisely. Be concise and exact.",
     captureArea:
       "Explain the captured region and answer the task briefly and precisely.",
   };
@@ -1345,4 +1345,5 @@
   log("Kimi VM ready.", { hotkeys: CFG.hotkeys, lang: PROFILE.language, mode: PROFILE.mode });
 
   // End IIFE
+
 })();
