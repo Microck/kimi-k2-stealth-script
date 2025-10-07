@@ -87,7 +87,7 @@ Open Violentmonkey → click the script → Menu commands. All settings persist 
 
 ### 3) Toggle Language (ES/EN)
 - Switches prompt language: Spanish (Spain) or English (US).
-- Also used for “student” tone (FP nivel medio in ES; mid‑level IT in EN).
+- Also used for “student” tone.
 
 ### 4) Cycle Mode (technical / student / singleAnswer / shortAnswer)
 - technical: expert‑level, precise, concise.
